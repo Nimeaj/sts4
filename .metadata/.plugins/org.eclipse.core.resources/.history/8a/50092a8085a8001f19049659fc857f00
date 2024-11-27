@@ -1,0 +1,17 @@
+package edu.pnu.service;
+
+import java.util.List;
+
+import edu.pnu.domain.Member;
+
+public class MemberService {
+	
+    private Member member = new Member();
+
+
+	public List<Member> getMembers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
